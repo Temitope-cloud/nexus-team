@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@600;700&family=Cabinet+Grotesk:wght@500;600&family=Karla:wght@400;500&display=swap");
+@theme {
+  --color-projectgreen: #00ff0a;
+  --color-projectBlue: #3c4cb5;
+}
